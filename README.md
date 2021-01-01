@@ -1,1 +1,1 @@
-# prncplsCleanerCode
+# Principles of a cleaner code
